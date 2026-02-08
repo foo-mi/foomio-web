@@ -1,7 +1,7 @@
 # foomio.com
 
 foomio.com is a website showcasing applications/games created by me!
-
+No longer online but can still be cloned! I am working on my new portfolio.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
